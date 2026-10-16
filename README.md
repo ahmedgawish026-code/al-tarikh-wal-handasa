@@ -1,2 +1,10 @@
-# al-tarikh-wal-handasa
-Arabic history and geometry quiz game for Android
+# التاريخ والهندسة — Android
+
+مشروع تجريبي لتطبيق أسئلة عربية عن التاريخ والهندسة باستخدام Kotlin وJetpack Compose.
+
+## بناء APK عبر GitHub Actions
+1. ارفع محتويات هذا المجلد إلى مستودع GitHub، مع الحفاظ على بنية المجلدات.
+2. افتح تبويب Actions واسمح بتشغيل workflows إذا طُلب منك.
+3. شغّل workflow باسم Build Android APK، ثم نزّل artifact الناتج باسم `app-debug-apk`.
+
+ملاحظة: هذا المشروع نموذج أولي ويجب بناؤه واختباره قبل اعتباره جاهزًا للنشر.
